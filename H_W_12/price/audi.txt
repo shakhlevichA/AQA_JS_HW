@@ -1,0 +1,3 @@
+
+average - 30000
+maximum - 40000
