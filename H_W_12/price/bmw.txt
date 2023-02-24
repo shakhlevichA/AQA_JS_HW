@@ -1,0 +1,3 @@
+
+promotion - 60000
+base - 70000
